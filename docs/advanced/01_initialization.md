@@ -22,7 +22,7 @@ As first step, it gets the docker images for postgres and geth.
 
 Geth (one of the ethereum clients) will be used to setup our own copy of L1 chain (that our local zkSync would use).
 
-Postgres is one of the two databases, that is used by zkSync (the other one is RocksDB). Currently most of the data is
+Postgres is one of the two databases that is used by zkSync (the other one is RocksDB). Currently most of the data is
 stored in postgres (blocks, transactions etc) - while RocksDB is only storing the state (Tree & Map) - and it used by
 VM.
 
