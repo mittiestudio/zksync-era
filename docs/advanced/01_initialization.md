@@ -30,7 +30,7 @@ Then we compile JS packages (these include our web3 sdk, tools and testing infra
 
 Then L1 & L2 contracts.
 
-And now we're ready to start setting up the system.
+Now we're ready to start setting up the system.
 
 #### Postgres
 
